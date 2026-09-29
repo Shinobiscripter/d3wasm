@@ -1,0 +1,10 @@
+/build*
+/cmake-build*
+/neo/cmake-build*
+*~
+.*.swp
+*.pyc
+.cproject
+.project
+.settings/
+.idea/
